@@ -1,12 +1,6 @@
 <?php
 include_once __DIR__.'/vendor/autoload.php';
-//$datetime = new DateTime('2015-06-22T10:40:25', new DateTimeZone('Europe/London'));
 
-// I wonder how that SAME moment-in-time would
-// be described in other places around the world.
-//$datetime->setTimezone(new DateTimeZone('Europe/London'));
-//date_default_timezone_set('Europe/Kiev');
-//var_dump(date("Y-m-d h:i:s")); die();
 $file_credentials=  __DIR__.'/files/credentials.json';
 
 $client =new Google_Client();
