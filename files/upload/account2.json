@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "decent-glazing-251009",
+  "private_key_id": "3903f50774078ce36362517080c0cbebd67cf84b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDLytugp2eGgkL6\nc5P2G3w7wo5OE8XykhEAYgXKIHAJ1CV6MZt65FEjgit88bzrvxaut0znYBRK32L7\nV0jB6E2dfy+l/h0uDFqHDSnESfsEJ6fLznJ186iNzcGtq1b0sPQHYHvVh3IQy9iK\nNkvTxp4TtE5eQN7gj3wIaeaHOBlxOnWS+q4IiwZrl9ZNoyNy0/d+tVFq+y47fjBz\nPTotAO+EpOQ4NFhS3OY8xZVh6Vpd7KB+6o3jEJBHkxpvHU0H4BNziD0YycHAoJZK\nuxzJr+Y69AnlC/mqH/hxxp8hQwu6CtP26YwnNZRspjM3CjsMnM403aGYKc5jk8Zu\nZtU8vlstAgMBAAECggEAIckayjKWri0QT5czs3xxBzNFBlqu2X0vxmF51j20dVyv\nbeelgCUz8nAVJ5yoFmlSqFqJLF64XoVUUpjw3fzWSUMZsipDyiuQIo2jHACr1c+B\nOP+b6EQh8IhpEJK0UtK3UjXDse3HklNJLfi8b3qhIGEnEOcuTApdpMNxzX8WcLfV\nR3ywAJZgUUrTlbRmyXLE6qpqw0h+QoxQa/spH1b25xWEDgACxW2kB7BFX3czJAqX\nu614H9jM+NrfsafjRFQUHPOldxHBuy0hVTW55S1KvsSrXiqipPsNEEjYARgpjgml\nEvUNyYn7RPq3xzeC0Zog/4RsxUz07iIPUT7mepYafQKBgQD728dC64I6AFpEFrT6\nJPJE889DTyZMX6BIYlm8x1AjMpVW3uAHkx5/rVA2Y4wqKgDisqedtTwtCS9cPcbq\n6Evi9Y8uEI+vDNRldSQ8ww7EjfEDZbtQv8rL2/Fe6VKB2vAsw8Oi3U2JnHAhifk6\nZ1C2nyNjKdv4zZChOqPvUPyZewKBgQDPJL2rB8XKbIh0KR+VJosxb8triegembcN\nvAdNLYRazFZOJM7v2iWdT3sYXHr0zC8iPGNFEKlqP+y+D/vQLQZKDlegWFUCTgl8\nn/wSKvsjy4PDrf259axUHT7TLO6pcJIP6xG5ic/NMyvlYZdB4suGN2Au+xG49MdJ\nmR6VfiIZdwKBgQDic9QQGY039YUz327N01Z6JPXgwVPgK8MEElo5YMRvQVYBi9fH\nN8KebgjHPm6Sor21F4maRZBbtfx9ZZZrNH63DK+2bXGjpVd7+f2hHIk0taNUuK3Z\nhvkinxnBiuyCkYaN2V8YGv9SkfRIU7RhjO+HpEK/MK32YW5/aShpT1ov7QKBgA9r\nzc8AyiHSyKnVMeu5rd0lVICSCLzWdsFIAUcmn1bfJYG1zc4fcHNwqlpa8DBvTwb+\ndel7XxFw5uATcozB/VjgDnf6e4Gra5tikbKMjpvQl+OmfWAtwQGWF8pC6xWkMsuK\nlYw5jUXajGcMR+V4y+wXDUsSF/SsDHYXNyar+D/rAoGBAKrF1n0vzvpNPk8bITzy\nBkv4V9CuqBwnkLxGZ9TfBSOvwHwm/Z7r1KZqA5h7fCFdGfVaDIgss9xNMeYQ1Kb8\n9MGRhd4SCrKLt5DbFDlga+Ojsfyovw52UHu6ztlOl/Z6gGhZc+nvNKu0kbtPmKdF\nCVfGuKcW4wiJx3JwJLjeot84\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-disk-account@decent-glazing-251009.iam.gserviceaccount.com",
+  "client_id": "108704683541158490214",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-disk-account%40decent-glazing-251009.iam.gserviceaccount.com"
+}
