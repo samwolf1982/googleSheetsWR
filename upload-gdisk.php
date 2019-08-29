@@ -12,7 +12,7 @@ $service = new Google_Service_Drive($client);
 $fileMetadata = new Google_Service_Drive_DriveFile(array(
     'name' => 'petsName',
     'parents' => array('1VA6T_D7YLXs2NB23lTQdW3Twib89-wLE'),
-   'mimeType' => 'application/vnd.google-apps.folder'
+    'mimeType' => 'application/vnd.google-apps.folder'
 ));
 
 $folder = $service->files->create($fileMetadata, array(
